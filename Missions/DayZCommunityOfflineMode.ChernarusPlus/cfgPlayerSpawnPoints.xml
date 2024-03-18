@@ -3,7 +3,7 @@
     <!--
         Spawn points settings for newly created player characters
     -->
-    <fresh>
+    <fresh> <pos x="12810" z="9895"
         <!-- runtime parameters used when player is spawning -->
         <spawn_params>
             <!-- used to rate point against infected -->
