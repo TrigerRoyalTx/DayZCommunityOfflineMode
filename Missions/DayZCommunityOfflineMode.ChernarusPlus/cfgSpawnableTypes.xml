@@ -234,7 +234,7 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="CanvasBag_Medical">
-		<cargo chance="0.6">
+		<cargo chance="8.6">
 			<item name="BandageDressing" />
 		</cargo>
 		<cargo chance="0.2">
@@ -243,7 +243,7 @@
 		<cargo chance="0.2">
 			<item name="TetracyclineAntibiotics" />
 		</cargo>
-		<cargo chance="0.2">
+		<cargo chance="5.2">
 			<item name="VitaminBottle" />
 		</cargo>
 	</type>
@@ -271,7 +271,7 @@
 		<cargo chance="0.6">
 			<item name="Zagorky" />
 		</cargo>
-		<cargo chance="0.4">
+		<cargo chance="0.0">
 			<item name="ChernarusMap" />
 		</cargo>
 	</type>
